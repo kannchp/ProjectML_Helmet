@@ -1,0 +1,6 @@
+Model,Model ID,Parameters (M),Avg Inference (ms),Min Inference (ms),Max Inference (ms)
+Nano (n),yolov8n,3.15,53.77,43.06,92.39
+Small (s),yolov8s,11.16,124.3,109.91,154.8
+Medium (m),yolov8m,25.89,321.93,284.5,367.15
+Large (l),yolov8l,43.67,594.21,560.02,703.61
+Extra Large (x),yolov8x,68.2,946.01,834.18,1369.2
